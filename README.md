@@ -1,4 +1,6 @@
-![logo](images/logo.png)
+<p align="center">
+	<img alt="logo" src="images/logo.png" width="100">
+</p>
 
 ## DevWorkspace Pro
 
